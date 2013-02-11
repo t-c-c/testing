@@ -3,7 +3,7 @@
 
 int main( int argc, char ** argv )
 {
-	printf( "hello, world" );
+	printf( "hello, world" )
 
 	return 0;
 }
