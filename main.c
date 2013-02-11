@@ -1,9 +1,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+void output();
+
 int main( int argc, char ** argv )
 {
-	printf( "hello, world" );
+	output();
 
 	return 0;
+}
+
+void output()
+{
+	printf( "hello, world" );
 }
