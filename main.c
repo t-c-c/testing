@@ -12,5 +12,7 @@ int main( int argc, char ** argv )
 
 void output()
 {
-	printf( "hello, world" );
+	printf( "hello, craig world" );
 }
+
+oh my life
